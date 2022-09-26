@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xolamabaso.github.io/Fly-high-club/sitemap.xml

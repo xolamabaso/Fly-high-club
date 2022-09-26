@@ -1,0 +1,53 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Fly High Club",
+    "description": "",
+    "home_page_url": "https://xolamabaso.github.io/Fly-high-club",
+    "feed_url": "https://xolamabaso.github.io/Fly-high-club/feed.json",
+    "user_comment": "",
+    "icon": "https://xolamabaso.github.io/Fly-high-club/media/website/Screenshot-2022-09-11-at-14.00.53.png",
+    "author": {
+        "name": "Fly High Club"
+    },
+    "items": [
+        {
+            "id": "https://xolamabaso.github.io/Fly-high-club/blog.html",
+            "url": "https://xolamabaso.github.io/Fly-high-club/blog.html",
+            "title": "Blog",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Fly High Club"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-25T20:21:21+02:00",
+            "date_modified": "2022-09-25T20:21:21+02:00"
+        },
+        {
+            "id": "https://xolamabaso.github.io/Fly-high-club/about-us.html",
+            "url": "https://xolamabaso.github.io/Fly-high-club/about-us.html",
+            "title": "About us",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Fly High Club"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-25T20:21:06+02:00",
+            "date_modified": "2022-09-25T20:21:06+02:00"
+        },
+        {
+            "id": "https://xolamabaso.github.io/Fly-high-club/cannabis-products.html",
+            "url": "https://xolamabaso.github.io/Fly-high-club/cannabis-products.html",
+            "title": "Cannabis Products",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Fly High Club"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-09-25T20:14:38+02:00",
+            "date_modified": "2022-09-25T20:14:38+02:00"
+        }
+    ]
+}
